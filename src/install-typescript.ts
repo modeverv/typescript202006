@@ -1,2 +1,2 @@
-let message:String = "あほあほまん";
+let message:String = "あほあほまん１！";
 console.log({message});
