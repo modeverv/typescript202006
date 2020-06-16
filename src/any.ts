@@ -13,7 +13,7 @@ axios.get(url).then(function (response) {
   }
   //let data: object[] = response.data;
   let data: Article[] = response.data;
-
+  console.log(data.length);
   console.log(data);
   console.log(data[0].title);
 });
