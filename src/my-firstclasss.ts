@@ -15,3 +15,4 @@ let taro = new Person('taro', 18);
 console.log(taro.name);
 console.log(taro.prorile());
 //let hanako = new Person();
+ 
